@@ -2018,7 +2018,7 @@ main(int argc, char *argv[])
 {
 	xw.l = xw.t = 0;
 	xw.isfixed = False;
-	xsetcursor(cursorshape);
+	xsetcursor(CursorShape);
 
 	ARGBEGIN {
 	case 'a':
