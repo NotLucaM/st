@@ -4,4 +4,4 @@ Patches
 Patches used: 
 - a
 - b
-- c
+- blinking cursor https://st.suckless.org/patches/blinking_cursor/
